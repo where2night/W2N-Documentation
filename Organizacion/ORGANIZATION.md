@@ -5,18 +5,20 @@ Organization
 
 ###Android Team
 
-*Álvaro Pascual
-*Juan Brugera
-*Sergio Primo
-*Beatriz Ortega
-*Ismael Requena
+* Alvaro Pascual
+* Juan Brugera
+* Sergio Primo
+* Beatriz Ortega
+* Ismael Requena
 
 ###BackEnd Team
-*Adrián Díaz
-*Luis Cubero
+
+* Adrian Diaz
+* Luis Cubero
 
 ###Web Team
-*Saskya Mosquera
-*Alicia Daza
-*Yuleska Pérez
-*Javier Alejos
+
+* Saskya Mosquera
+* Alicia Daza
+* Yuleska Perez
+* Javier Alejos
