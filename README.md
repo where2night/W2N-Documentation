@@ -56,7 +56,7 @@ W2N-Documentation
 * Registro: Locales/DJ's
 * Home y perfil : Usuarios/Locales/DJ's
 * Editar Perfil (Sin posibilidad aún de subir una foto) : Locales/DJ's
-* Crear Eventos : Locales
+* Crear Eventos : Locales/DJ's
 
 ###En Android:
 
@@ -71,4 +71,7 @@ W2N-Documentation
 * Búsqueda de DJ's por nombre
 * Búsqueda de locales por cercanía (Android) y por nombre (Web y Android)
 * Búsqueda de Eventos por nombre
+* Funcionalidad de los botones :
+	* Seguir a un DJ 
+	* Asistir a un evento
 
