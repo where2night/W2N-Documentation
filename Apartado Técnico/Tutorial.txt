@@ -1,0 +1,18 @@
+1.- Instalar GIT
+	*http://git-scm.com/downloads
+2.- Instalar RVM
+	*https://rvm.io/rvm/install
+		NOTA: una vez instalado ejecutar 
+		* source ~/.rvm/scripts/rvm
+3.- Ejecutar dependencias de librerias en ubuntu.
+	*MIRAR EL GEMFILE de aemonge, al final.(sudo apt-get ......)
+4.- Colocar el PATH en la carpeta donde queramos trabajar
+4.- clonar el repositorio where2night.git 
+	git clone git://github.com/where2night/w2nserver.git
+	NOTA: si al hacer git:/ da error ejecutarlo con https://github.com/where2night/w2nserver.git
+5.- colocar el path en la carpeta que hemos clonado 
+6.- Exec: bundle install
+7.- Exec: rails server 
+		Para crear el localhost:3000 (DE MOMENTO DARA ERROR)
+
+NOTA: NO SE SI FALTA ALGUN PASO, PROBAR TODO A VER SI FUNCIONA ASI
