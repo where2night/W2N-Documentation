@@ -1,6 +1,8 @@
 W2N-Documentation
 =================
 
+#Planificación y objetivos logrados
+
 ##Planificación Inicial para Demo1
 
 ###Tanto en la app como en web :
@@ -75,3 +77,68 @@ W2N-Documentation
 	* Seguir a un DJ 
 	* Asistir a un evento
 
+
+##Planificación Inicial para Demo2
+
+###Capacidad del fiestero de añadir:
+* Estados
+* Modos
+
+###Home fiestero:
+
+* Eventos de los locales a los que sigo
+* eventos amigos
+* Estados amigos
+* Modos amigos
+
+###Perfil fiestero (tanto amigos como desconocidos):
+
+* Información básica
+* Estados
+* Modos
+
+###Gestión de amistades:
+* Enviar solicitud
+* Aceptar solicitud
+* Declinar solicitud
+* Borrar amigo
+
+###Listados
+* Locales a los que sigo
+* Amigos seguidos
+
+###Búsquedas
+* Locales
+* Amigos
+	
+###Perfil local
+* Igual que el home pero con botones para las distintas acciones
+
+###Perfil fiestero y local
+* Subir fotos de perfil
+
+
+##Objetivos alcanzados para la Demo2
+
+###Tanto en la app como en web:
+
+* Añadir estado y modo
+* Novedades en el home 
+	* Fiestero
+		* Eventos de locales a los que se sigue
+		* Eventos amigos
+		* Estados amigos
+		* Modos amigos
+	* Local
+		* Eventos creados
+		* Seguidores		
+* Ver perfil fiesteros
+* Gestión de amistad
+* Ver perfil local y poder realizar acciones
+* Buscar locales y amigos
+* Asistir a un evento 
+
+
+##Objetivos no alcanzados:
+
+* Gestión de listas
